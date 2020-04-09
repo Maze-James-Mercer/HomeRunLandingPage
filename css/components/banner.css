@@ -1,0 +1,48 @@
+.banner-large {
+    color: white;
+    padding: 150px 0px;
+    background-size: cover;
+    background-position: center;
+}
+
+#title-banner {
+    background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/flat0.jpg);
+}
+
+#text-banner {
+    background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/flat1.jpg);
+}
+
+.banner-thin {
+    color: white;
+    padding: 50px 0px;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-large h1 {
+    font-size: 50px;
+}
+
+.banner-large h2 {
+    font-size: 30px;
+    font-weight: lighter;
+    opacity: 0.8;
+    margin-bottom: 40px;
+}
+
+.banner-thin ul {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.banner-thin li {
+    margin: 10px;
+}
+
+.banner-thin h2 {
+    font-size: 30px;
+    font-weight: lighter;
+    opacity: 0.8;
+    margin-bottom: 40px;
+}
